@@ -19,6 +19,7 @@ jobs:
         java-version: '11'
         distribution: 'temurin'
         cache: gradle
-
+    - name: search gradle
+      run: find / -type f -name "gradlew" 2>/dev/null
     - name: Build with Gradle
       run: gradle build
