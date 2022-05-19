@@ -41,8 +41,8 @@ dependencies {
     implementation "com.google.android.gms:play-services-games:${gms_library_version}"
     implementation "com.google.android.gms:play-services-auth:${gms_library_version}"
     implementation "androidx.drawerlayout:drawerlayout:1.0.0"
-    compile 'org.apache.httpcomponents:httpcore:4.4.1'
-    compile 'org.apache.httpcomponents:httpclient:4.5'
+    //compile 'org.apache.httpcomponents:httpcore:4.4.1'
+    //compile 'org.apache.httpcomponents:httpclient:4.5'
     compile 'com.android.support:support-v4:+'
     compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
 }
