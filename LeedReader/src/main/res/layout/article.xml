@@ -47,8 +47,7 @@
                         android:text="TextView"
                         android:textColor="#999999"
                         android:textSize="12dp" />
-                </LinearLayout>
-
+                
                 <LinearLayout
                     android:layout_width="42dp"
                     android:layout_height="wrap_content"
