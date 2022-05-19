@@ -24,6 +24,13 @@
                 android:background="@drawable/article_header_background"
                 android:orientation="horizontal" >
 
+                <LinearLayout
+                    android:id="@+id/article"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
                     <!-- title color defined by the articleTitleColor in the res/values/color.xml file -->
 
                     <TextView
@@ -47,7 +54,8 @@
                         android:text="TextView"
                         android:textColor="#999999"
                         android:textSize="12dp" />
-                
+                </LinearLayout>
+
                 <LinearLayout
                     android:layout_width="42dp"
                     android:layout_height="wrap_content"
