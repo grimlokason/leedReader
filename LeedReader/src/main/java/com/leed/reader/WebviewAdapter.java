@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.leed.reader.R;
+import com.barbogogo.leedreader.R;
 
 //import androidx.core.view.PagerAdapter;
 import androidx.viewpager.widget.PagerAdapter;

@@ -9,7 +9,7 @@ android {
             TODO: Replace this value with your application's package name
             You can find this in Linked Apps section of your Game Service in the Google Play Console
         */
-        applicationId "com.leed.reader"
+        applicationId "com.barbogogo.leedreader"
 
         minSdkVersion android_min_sdk_version
         targetSdkVersion android_compile_version
@@ -38,13 +38,13 @@ dependencies {
     implementation 'com.android.support:support-core-ui:28.0.0'
     implementation 'com.android.support:support-media-compat:28.0.0'
     implementation 'com.android.support:support-fragment:28.0.0'
-    implementation "com.google.android.gms:play-services-games:${gms_library_version}"
-    implementation "com.google.android.gms:play-services-auth:${gms_library_version}"
+    //implementation "com.google.android.gms:play-services-games:${gms_library_version}"
+    //implementation "com.google.android.gms:play-services-auth:${gms_library_version}"
     implementation "androidx.drawerlayout:drawerlayout:1.0.0"
     //compile 'org.apache.httpcomponents:httpcore:4.4.1'
     //compile 'org.apache.httpcomponents:httpclient:4.5'
-    compile 'com.android.support:support-v4:+'
-    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+    implementation 'com.android.support:support-v4:+'
+    implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
 }
 
 buildscript {

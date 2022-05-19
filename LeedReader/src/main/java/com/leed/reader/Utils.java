@@ -8,7 +8,7 @@ import java.util.Formatter;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.leed.reader.R;
+import com.barbogogo.leedreader.R;
 
 import android.content.Context;
 import android.graphics.Bitmap;

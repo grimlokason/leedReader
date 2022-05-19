@@ -28,7 +28,7 @@ import android.net.NetworkInfo;
 import android.os.AsyncTask;
 import android.os.Build.VERSION;
 
-import com.leed.reader.R;
+import com.barbogogo.leedreader.R;
 
 public class APIConnection
 {

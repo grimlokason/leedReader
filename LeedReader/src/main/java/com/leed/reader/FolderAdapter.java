@@ -2,7 +2,7 @@ package com.barbogogo.leedreader;
 
 import java.util.ArrayList;
 
-import com.leed.reader.R;
+import com.barbogogo.leedreader.R;
 
 import android.content.Context;
 import android.graphics.Typeface;

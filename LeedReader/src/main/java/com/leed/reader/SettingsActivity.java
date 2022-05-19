@@ -1,6 +1,6 @@
 package com.barbogogo.leedreader;
 
-import com.leed.reader.R;
+import com.barbogogo.leedreader.R;
 
 import android.app.ActionBar;
 import android.os.Bundle;

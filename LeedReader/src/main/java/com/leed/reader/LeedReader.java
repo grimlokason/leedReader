@@ -3,7 +3,7 @@ package com.barbogogo.leedreader;
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 
-import com.leed.reader.R;
+import com.barbogogo.leedreader.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;
